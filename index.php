@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Wordpress Admin Themes
- * Plugin URI: http://imbilal.com
+ * Plugin URI: https://github.com/bilalvirgo10/wp-admin-color-themes
  * Description: A little plugin to add your own color schemes to Wordpress. The corresponding tutorial has been written on WpTuts+.
  * Version: 1.0
  * Author: Bilal Shahid
